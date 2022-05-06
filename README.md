@@ -1,2 +1,2 @@
 # django-starter
-Django starter
+Django production-grade app starter
